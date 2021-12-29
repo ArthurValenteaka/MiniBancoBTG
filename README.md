@@ -33,7 +33,7 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 # Ferramentas usadas neste projeto
 [openJDK 8 (LTS)](https://adoptopenjdk.net/)
 
-[NetBeans IDE 12.5 (https://netbeans-ide.informer.com/8.2/)
+[NetBeans IDE 12.5(https://netbeans-ide.informer.com/)
 
 # Bibliotecas usadas neste projeto
 [atxy2k](http://atxy2k.github.io/RestrictedTextField/)
