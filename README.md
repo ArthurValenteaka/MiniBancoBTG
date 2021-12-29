@@ -6,20 +6,20 @@ Sistema de gerenciamento de contas digitais usado para administrar contas de cli
 
 ![MiniBanco](https://user-images.githubusercontent.com/87166385/147706848-0b5405c4-a922-4ced-bde5-82cee13e7b63.png)
 
-#Autor
+# Autor
 Arthur Guimarães Valente
 
 # Construído com
 *Java
 *MySQL
 
-#Licença
+# Licença
 Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para mais detalhes.
 
-#Instalação
+# Instalação
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local (Windows) para fins de desenvolvimento e testes.
 
-#Pre-requisitos
+# Pre-requisitos
 * Java JDK 8
 * Banco de dados MySQL versão 8
 
