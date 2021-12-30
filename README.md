@@ -11,8 +11,8 @@ Arthur Guimarães Valente
 
 # Construído com
 
-*Java
-*MySQL
+* Java
+* MySQL
 
 # Licença
 Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para mais detalhes.
