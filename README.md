@@ -14,8 +14,6 @@ Arthur Guimarães Valente
 * Java
 * MySQL
 
-# Licença
-Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para mais detalhes.
 
 # Instalação
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local (Windows) para fins de desenvolvimento e testes.
