@@ -38,8 +38,8 @@ public class ModuloConexao {
         Connection conexao = null;
         String driver = "com.mysql.cj.jdbc.Driver";
         String url = "jdbc:mysql://localhost:3306/dbbtgplus";
-        String user = "root";
-        String password = "Isabela09";
+        String user = "seu login";
+        String password = "sua senha";
         try {
             Class.forName(driver);
             conexao = DriverManager.getConnection(url, user, password);
