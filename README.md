@@ -35,7 +35,7 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 [NetBeans IDE 12.5](https://netbeans-ide.informer.com/)
 
 # Bibliotecas usadas neste projeto
-[atxy2k](http://atxy2k.github.io/RestrictedTextField/)
+
 
 [driver MySQL](https://dev.mysql.com/downloads/connector/j/)
 
